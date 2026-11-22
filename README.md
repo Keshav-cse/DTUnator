@@ -5,8 +5,8 @@ material**. If the answer isn't in the material, it says so instead of guessing.
 also upload their own PDFs or lecture recordings and ask questions about them.
 
 Built for the **BrainWave 2.0** hackathon (Jan 2026). Later stages:
-[`rag-prototype`](https://github.com/Keshav-cse/rag-prototype) →
-[`dtunator-rag-sft-rl`](https://github.com/Keshav-cse/dtunator-rag-sft-rl) (v2).
+[`rag-prototype`](https://github.com/keshav-talwar/rag-prototype) →
+[`dtunator-rag-sft-rl`](https://github.com/keshav-talwar/dtunator-rag-sft-rl) (v2).
 
 ## Why
 
